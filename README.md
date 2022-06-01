@@ -1,4 +1,4 @@
-# lechon
+# lechon (WIP does not work in current state)
 My tiny buildless vue setup. Opinionated, not posted to NPM.
 
 # Wait, why though?
